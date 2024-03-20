@@ -1,6 +1,8 @@
 # HR-Analytics-Dashboard
 This project demonstrates a commitment to leveraging data analytics for driving strategic HR initiatives and fostering a culture of continuous improvement within organizations. Through the implementation of the HR Analytics Dashboard, organizations can proactively address challenges related to employee retention and performance, ultimately contributing to their long-term success and growth.
 
+![HR Analytics Dashboard](https://github.com/nibeditans/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png)
+
 ## Objective:
 The HR Analytics Dashboard project aims to assist organizations in enhancing employee performance and reducing attrition rates by providing insightful analytics and actionable insights. By leveraging data-driven approaches, this dashboard aims to optimize the hiring process, improve employee experience, enhance workforce productivity, and foster employee trust.
 
