@@ -27,7 +27,7 @@ Through the development of the HR Analytics Dashboard, several key insights and 
 - **Download or Clone the Repository:**
 Clone or download the repository to your local machine.
 
-- ** Open HR_Analytics_Dashboard.pbix:**
+- **Open HR_Analytics_Dashboard.pbix:**
 Open the Power BI file using Power BI Desktop.
 
 - **Connect Data Sources:**
