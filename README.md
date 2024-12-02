@@ -1,6 +1,8 @@
 # HR-Analytics-Dashboard
 This project demonstrates a commitment to leveraging data analytics for driving strategic HR initiatives and fostering a culture of continuous improvement within organizations. Through the implementation of the HR Analytics Dashboard, organizations can proactively address challenges related to employee retention and performance, ultimately contributing to their long-term success and growth.
 
+You can check out the complete article on this this Project: [HR Analytics Dashboard](https://nsworldinfo.medium.com/hr-analytics-dashboard-04bea8fc08cd)
+
 ![HR Analytics Dashboard](https://github.com/nibeditans/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png)
 
 ## Objective:
