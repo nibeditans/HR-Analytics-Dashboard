@@ -8,6 +8,8 @@ You can check out the complete article on this this Project: [HR Analytics Dashb
 ## Objective:
 The HR Analytics Dashboard project aims to assist organizations in enhancing employee performance and reducing attrition rates by providing insightful analytics and actionable insights. By leveraging data-driven approaches, this dashboard aims to optimize the hiring process, improve employee experience, enhance workforce productivity, and foster employee trust.
 
+Check out the modified version of HR Analytics Dashboard: [HR Analytics Dashboard - Modified Version](https://github.com/nibeditans/Improved-Version-HR-Analytics-Dashboard)
+
 ## Project Learning:
 Through the development of the HR Analytics Dashboard, several key insights and improvements were identified:
 
